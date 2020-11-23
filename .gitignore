@@ -1,0 +1,6 @@
+*-bak
+fp-info-cache
+*.png
+*-cache.lib
+*.zip
+gerber/

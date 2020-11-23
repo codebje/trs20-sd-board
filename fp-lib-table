@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "cpu board")(type KiCad)(uri "/Users/bje/Projects/trs20/cpu board/lib/cpu board.pretty")(options "")(descr ""))
+)

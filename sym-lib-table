@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name trs20-parts)(type Legacy)(uri "/Users/bje/Projects/trs20/cpu board/lib/trs20-parts.lib")(options "")(descr ""))
+)
